@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Call me Phong H.</h1>
+<h3 align="center">
+  A person who has long experience in Front-end development, good knowledge
+  about Back-end as well. Available to explore new technologies, research, and
+  learn how to perform and optimize applications with highly scalable.
+</h3>
 
-<!--
-**doivjpxx/doivjpxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Global Factories** - ❤ I'm currently in love
+with **Rust** - 👨‍💻 All of my projects are available at [<private
+  >](<private
+    >) - 📝 My passionate blog [https://matbiet.net/](https://matbiet.net/) - 💬
+    Ask me about **react, angular, vue, astro, and more...** - 📫 Reach me at
+    **huyphongbn24@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <h3 align="left">Connect with me:</h3>
+    <p align="left">
+      <a href="https://dev.to/doivjpxx" target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
+          alt="doivjpxx"
+          height="30"
+          width="40"
+      /></a>
+      <a href="https://linkedin.com/in/huyphongdev" target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+          alt="huyphongdev"
+          height="30"
+          width="40"
+      /></a>
+    </p>
+
+    <p>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=doivjpxx&show_icons=true&locale=en&layout=compact"
+        alt="doivjpxx"
+      />
+    </p>
+
+    <p>
+      &nbsp;<img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=doivjpxx&show_icons=true&locale=en"
+        alt="doivjpxx"
+      />
+    </p>
+
+    <p>
+      <img
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=doivjpxx&"
+        alt="doivjpxx"
+      /></p></private
+></private>
