@@ -7,9 +7,7 @@
 
 
 - 🔭 I’m currently working on **Global Factories** - ❤ I'm currently in love
-with **Rust** - 👨‍💻 All of my projects are available at [<private
-  >](<private
-    >) - 📝 My passionate blog [https://matbiet.net/](https://matbiet.net/) - 💬
+with **Rust** - 📝 My passionate blog [https://matbiet.net/](https://matbiet.net/) - 💬
     Ask me about **react, angular, vue, astro, and more...** - 📫 Reach me at
     **huyphongbn24@gmail.com**
 
