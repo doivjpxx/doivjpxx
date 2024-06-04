@@ -31,26 +31,11 @@
       /></a>
     </p>
 
-    <p>
-      <img
+   <p align="center">
+     <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=doivjpxx&show_icons=true&locale=en&layout=compact"
         alt="doivjpxx"
       />
-    </p>
+   </p>
 
-    <p>
-      &nbsp;<img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=doivjpxx&show_icons=true&locale=en"
-        alt="doivjpxx"
-      />
-    </p>
-
-    <p>
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=doivjpxx&"
-        alt="doivjpxx"
-      /></p></private
-></private>
