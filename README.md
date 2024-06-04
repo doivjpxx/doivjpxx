@@ -5,11 +5,11 @@
   learn how to perform and optimize applications with highly scalable.
 </h3>
 
-
-- 🔭 I’m currently working on **Global Factories** - ❤ I'm currently in love
-with **Rust** - 📝 My passionate blog [https://matbiet.net/](https://matbiet.net/) - 💬
-    Ask me about **react, angular, vue, astro, and more...** - 📫 Reach me at
-    **huyphongbn24@gmail.com**
+- 🔭 I’m currently working on **Global Factories**
+- ❤ I'm currently in love with **Javascript, C#, Rust**
+- 📝 My passionate blog [https://matbiet.net/](https://matbiet.net/)
+- 💬 Ask me about **react, angular, vue, astro, and more...**
+- 📫 Reach me at **huyphongbn24@gmail.com**
 
     <h3 align="left">Connect with me:</h3>
     <p align="left">
