@@ -1,16 +1,16 @@
 <pre>
-Call me Phong H.
+>_ Call me Phong H.
 
-email:    huyphongbn24@gmail.com
-linkedin: huyphongdev
+>_ email:    huyphongbn24@gmail.com
+>_ linkedin: huyphongdev
+>_ |
 </pre>
 
 **Front-end Developer** with extensive experience, also well-versed in Back-end. Passionate about scalable applications, exploring new technologies, and performance optimization.
 
-- **Currently working at**: Global Factories  
-- **Favorite tech stack**: JavaScript, Typescript, C#, Rust  
+- Sr. Software Engineer at Global Factories B.V.
+- **Favorite tech stack**: JavaScript, Typescript, C#, Rust.
 - **Blog**: [matbiec.net](https://matbiec.net)  
-- **Ask me about**: React, Angular, Vue, Astro, and more  
-
+- **Ask me about**: React, Angular, Vue, Astro, NodeJS and more..
 
 
