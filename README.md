@@ -10,7 +10,6 @@
 
 - Sr. Software Engineer at Global Factories B.V.
 - **Favorite tech stack**: JavaScript, Typescript, C#, Rust.
-- **Blog**: [matbiec.net](https://matbiec.net)  
 - **Ask me about**: React, Angular, Vue, Astro, NodeJS and more..
 
 
